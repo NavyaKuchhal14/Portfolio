@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npx vite *)",
+      "WebFetch(domain:ieeexplore.ieee.org)"
+    ]
+  }
+}
