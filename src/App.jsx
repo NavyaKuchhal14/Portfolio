@@ -832,7 +832,7 @@ export default function App() {
                 <div className="w-[calc(100%-5rem)] md:w-[calc(50%-3rem)] p-10 rounded-[2rem] bg-white/5 border border-white/10 hover:bg-white/[0.07] hover:border-[#C9A84C]/50 transition-all duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-2">
                   <div className="flex flex-col md:flex-row md:items-center justify-between mb-6 gap-3">
                     <h4 className="text-2xl font-extrabold tracking-tight text-white">Data Analyst Intern</h4>
-                    <span className="text-[#C9A84C] font-mono text-xs font-bold tracking-widest uppercase bg-[#C9A84C]/10 px-4 py-1.5 rounded-full w-fit">2026—Present</span>
+                    <span className="text-[#C9A84C] font-mono text-xs font-bold tracking-widest uppercase bg-[#C9A84C]/10 px-4 py-1.5 rounded-full w-fit">Mar-Apr 2026</span>
                   </div>
                   <p className="text-white/40 mb-8 font-mono text-sm tracking-widest uppercase font-semibold">VSKY Expo</p>
                   <ul className="space-y-4">
